@@ -1,8 +1,0 @@
-1. git clone https://github.com/Shpota/github-activity-generator 
-2. If you have no ssh key, create it.
-	https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-3. create new repository(no data, only name, private)
-4. cmd in directory which includes the python file(clone directory)
-5. python contribute.py --max_commits=5 --frequency=60 --repository=git@github.com:veselinovicdevelopment/react-activity.git
-\*/ start_date - from now, to last date, range. for example: 2020 - 10-1~2021-3-1(current) start_date range is 5 month(150).
-range - commit range, for example: 2020-9-1 ~ 2020-10-1,  start_date: 180, range: 30
