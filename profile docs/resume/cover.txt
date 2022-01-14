@@ -1,0 +1,30 @@
+Hi.
+As a full-stack developer with 6 years of development career, I have developed many products such as Molla React, Molla Vue from ThemeForest.
+Please find the theme on themeforest.net by searching Molla React, Molla Vue
+
+Portfolio Link
+https://themeforest.net/user/don-themes/portfolio?gclid=Cj0KCQiAzMGNBhCyARIsANpUkzPpbHzDp--6ZDfDmSUj9iFxpmPuTKos3mNZIWOJxRkHl4eo4LqdhQkaAittEALw_wcB
+
+Regards
+
+Technical/Functional Skills
+• Mastery of a modern web application technology, framework/Library such as HTML, CSS, JavaScript,ReactJS, React Native, Angular, , MVC, Node JS.
+* Mastery in API Development using Typescript, JavaScript in frameworks NestJS, Node JS
+• Mastery in test-driven development and effective test creation using frameworks such as Jasmine, Cypress.IO
+• Mastery of a version control systems (Github, Gitlab)
+• Proficient in a CI/CD toolchain
+• Proficient in Sql and NoSQL database such as MongoDB
+• Proficient in writing Cloud native apps
+• Proven experience of end to end Development and implementation experience
+• Agile Experience
+• Strong problem solving and analytical skills.
+
+Please find my work on themeforest.net
+react / next.js + GraphQl
+https://themeforest.net/item/molla-react-ecommerce-template/27932781
+
+angular
+https:://d-themes.com/angular/molla/demo1/
+
+vue/nuxt.js
+https://themeforest.net/item/molla-vuejs-ecommerce-template/31380547

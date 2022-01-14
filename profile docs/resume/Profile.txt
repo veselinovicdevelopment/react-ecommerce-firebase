@@ -1,0 +1,37 @@
+Name: Mike Nielsen
+Chinese Name: Jiang Cheng
+Nationality: Denmark
+Origin: China
+
+He is Chinese-Danish
+
+Birthday: 1993-8-15
+
+Biography
+Mike is a senior software engineer with more than 8 years of development history. His rational approach to problem-solving combined with his passion for innovative 
+and fresh ideas have led to a portfolio of impressive website solutions. Many products he developed strongly show that he has profound knowledge of full-stack development. 
+Amazingly, he mastered a lot of tech including WordPress, React/Next.js, Angular, and Vue/Nuxt.js.
+Mike is passionate about working with other people and is always open to new ideas and discussions and respect other points of view while always trying to find win-win 
+solutions for existing problems.
+
+Short Bio
+Mike is a senior software engineer with more than 8 years of development history. 
+His rational approach to problem-solving combined with his passion for innovative and fresh ideas have led to a portfolio of impressive website solutions. 
+Mike is passionate about working with other people and is always open to new ideas and discussions and respect other points of view while always trying to 
+find win-win solutions for existing problems.
+
+Eduction History
+Copenhagen University(2013-2018) - Bachelor of computer science
+
+Employment History
+Dthemes Startup Agency(2019~current)
+
+
+Skills
+NodeJS, React/React Native, ExpressJS, VueJS, AngularJS/Angular, Typescript, Next/NuxtJS, PHP, Ruby on Rails, Laravel, Codeigniter, WordPress Theme and Plugin development,
+MySQL, PostgreSQL, Mongodb, Graphql
+
+Language
+Danish,
+English
+Chinese

@@ -1,0 +1,110 @@
+moonshot191@gmail.com
+pf^1h@g4g(263^G
+
+vision.high.ever@gmail.com
+p,ryVAXe,37pKMD
+
+design:
+https://www.figma.com/file/JDFOIkUdnn5BXC7etP2fHA/RL?node-id=0%3A1
+
+https://p3plzcpnl487220.prod.phx3.secureserver.net:2083/cpsess9292240045/frontend/paper_lantern/index.html?login=1&post_login=59801966857932
+
+username: dqzrbpgr2sqc
+password: 2sE_Z:Kr?=nE
+
+client id
+xyza7891pudP4BzUriSwp5P5EjdfHxfH
+
+https://epicgames.com/id/login?client_id=xyza7891pudP4BzUriSwp5P5EjdfHxfH&responseType=code
+
+
+
+
+roketleagureapi
+https://github.com/rocketleagueapi/items
+
+https://tradebot.anga.blue/  ---- getBots
+
+686867736
+22k5dhxt
+
+my token:  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
+
+
+updateAsset
+
+arg1 : bot id
+arg2: item id (can be got from getInventory)
+arg3: true
+
+this means the bot is going to give Item (arg2) to the player
+so, just like to put the item in cart in shopping mal
+
+https://tradebot.anga.blue/
+
+the bot is hosted on this server
+
+the bot's inventory would be OP.Market's inventory
+
+updateBot
+
+arg1: bot id
+arg2: auth code
+https://www.epicgames.com/id/api/redirect?clientId=34a02cf8f4414e29b15921876da36f9a&responseType=code
+
+get the auth code from here, it expires in 30 seconds, so should use it very quick, kk
+
+OP.Market website/trade page
+
+The player selects items to give to OP.market and they go to top left box as you did now.
+And he selects items to get from op.market and they go to top right box.
+And click trade button at the center.
+
+we should prepare the bot for this trading.
+
+connect to bot server
+step 1 ~ 5
+the bot invited the player( the user who clicked the trade button, we should know his id like {epic: xxxxx}) to the lobby
+the player should accept invitation.
+he puts exactly same items in lobby like he did on OP.market trade page.
+Because we can use the API to detect what items the player puts in the Rocket League trade we verify that it matches up with what they have selected on the website
+and we also should let the bot put exactly same items as selected on the website.
+
+we do this by updateAsset api, you know
+-------------------------------------------------------------
+
+Moroco
+https://sxb1plzcpnl487600.prod.sxb1.secureserver.net:2083/cpsess0589500887/frontend/paper_lantern/filemanager/index.html?login=1&post_login=71973857709871
+
+ny508b1k09lg
+username
+K*p[3U&NlA
+password
+
+admin.orders.icu is the folder
+
+Manager@demo.com
+
+---------------------------------------------------------
+Atef Alghamdi      Saudi Arabia
+The design in here: https://www.figma.com/file/CrnkW1xWVNo7WzeEwDtO9J/Almenu?node-id=0%3A1
+
+App site.
+https://almenu.io/en
+enjaznet@gmail.com
+10203040
+
+ftp.
+https://almenu.io:2083/
+user: almenu
+pwd: Atef05453Gg
+-------------------------------------
+Nate - Israel
+git clone git@bitbucket.org:natik_sofwave/sales_dashboard.git
+
+
+https://www.figma.com/file/8ExO67byGETPO53DMvZ94L/Sofwave-(Copy)-for-dev?node-id=274%3A2513
+
+sales.sof-wave.com
+natik
+zxasqw12

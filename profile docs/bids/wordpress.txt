@@ -1,0 +1,25 @@
+Greetings of the day.
+After reading your requirement, I can assure you, we'll deliver a great solution to your requirement.
+We are a team of expert Wordpress developers/WooCommerce developers, can do any customization, create plugins & themes from scratch.
+We love to develop pixel perfect and fully responsive web applications, compatible with each and every browser.
+We have helped 50+ companies in last 5 years and completed more than 200 software projects.
+
+
+Technologies we work on:
+1) Angular 9, ReactJS, Wordpress
+2) NodeJS, Express, sailsjs,l oopback
+3) SQL(MySQL, PostgreSQL), NoSQL(MongoDB, CouchDB)
+4) HTML5, CSS3, Sass/Less, Bootstrap
+5) Javascript(ES5/ES6+, Babel), jQuery, DHTMLX, Typescript, D3.js, Socket.IO, Three.js
+6) Webpack, Gulp, Babel
+7) Test: Jest, Jasmine, Mocha, Karma, Chai
+8) UI/UX, responsive web
+9) Git, Bitbucket, Trello, Jira
+10) Firebase, AWS, GCP
+11) Stripe, Paypal, Yodleeany timezone and available 24*7 on any platform.
+
+Here are a few samples from my piece of work:
+http://fitara.in
+http://mydental360.com
+http://mosaichomes.com
+http://rotaract3132.org/
